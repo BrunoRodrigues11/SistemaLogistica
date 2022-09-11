@@ -1,0 +1,19 @@
+.container {
+    width: 500px;
+    height: 500px;
+    color: #fff;
+    margin-top: 5px;
+    text-align: center;
+}
+
+#user {
+    background-color: rgb(196, 43, 43);
+}
+
+#dash {
+    background-color: #d3dbd9;
+}
+
+#message {
+    background-color: rgb(47, 150, 43);
+}
